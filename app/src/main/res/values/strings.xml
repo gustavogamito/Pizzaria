@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizzaria</string>
+    <string name="vale_refeicao">Vale Refeição</string>
+    <string name="dinheiro">Dinheiro</string>
+    <string name="cartao_credito">Cartão de Crédito</string>
+    <string name="cartao_debito">Cartão de Débito</string>
+</resources>

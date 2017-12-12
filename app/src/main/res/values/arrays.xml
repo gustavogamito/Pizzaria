@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pagamentos">
+        <item>Vale Refeição</item>
+        <item>@string/vale_refeicao</item>
+        <item>@string/dinheiro</item>
+        <item>@string/cartao_credito</item>
+        <item>@string/cartao_debito</item>
+    </string-array>
+</resources>
