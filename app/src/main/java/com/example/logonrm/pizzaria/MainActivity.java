@@ -58,12 +58,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if(isChecked){
-                    pedido.addSabor(cbAtum.getText().toString());
+                    pedido.addSabor(checkBox.getText().toString());
                 }else {
-                    pedido.removeSabor(cbAtum.getText().toString());
+                    pedido.removeSabor(checkBox.getText().toString());
                 }
             }
-        }
+        });
     }
 
     @OnClick(R.id.btFecharPedido)
